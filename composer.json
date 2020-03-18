@@ -1,14 +1,14 @@
 {
-    "name": "jrm2k6/cloudder",
+    "name": "phpotier/cloudder",
     "description": "Cloudinary API wrapper for Laravel",
     "keywords": ["laravel", "laravel4", "cloudinary", "api", "image", "upload"],
-    "homepage": "https://github.com/jrm2k6/cloudder",
+    "homepage": "https://github.com/phpotier/cloudder",
     "type": "library",
-    "license": "MIT",
+    "license": "",
     "authors": [
         {
-            "name": "Jeremy Dagorn",
-            "email": "jeremy.dagorn@gmail.com"
+            "name": "Philippe Potier",
+            "email": "philippe.potier.dev@gmail.com"
         }
     ],
     "require": {
