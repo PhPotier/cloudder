@@ -4,7 +4,7 @@
     "keywords": ["laravel", "laravel4", "cloudinary", "api", "image", "upload"],
     "homepage": "https://github.com/phpotier/cloudder",
     "type": "library",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Philippe Potier",
